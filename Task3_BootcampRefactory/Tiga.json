@@ -8,7 +8,7 @@
       "furniture",
       "brown"
     ],
-    "purchased_at": 1579190471,
+    "purchased_at": "2020-01-16T16:01:11",
     "placement": {
       "room_id": 3,
       "name": "Meeting Room"
@@ -23,7 +23,7 @@
       "furniture",
       "brown"
     ],
-    "purchased_at": 1579190642,
+    "purchased_at": "2020-01-16T16:04:02",
     "placement": {
       "room_id": 3,
       "name": "Meeting Room"
@@ -36,7 +36,7 @@
     "tags": [
       "monitor"
     ],
-    "purchased_at": 1579017842,
+    "purchased_at": "2020-01-14T16:04:02",
     "placement": {
       "room_id": 3,
       "name": "Lavender"
@@ -49,7 +49,7 @@
     "tags": [
       "ac"
     ],
-    "purchased_at": 1578931442,
+    "purchased_at": "2020-01-13T16:04:02",
     "placement": {
       "room_id": 5,
       "name": "Dhanapala"
@@ -64,7 +64,7 @@
       "fork",
       "tableware"
     ],
-    "purchased_at": 1578672242,
+    "purchased_at": "2020-01-10T16:04:02",
     "placement": {
       "room_id": 10,
       "name": "Rajawali"
